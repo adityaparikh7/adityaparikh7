@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Parikh</h1>
-- 🌱 I’m currently learning **Computer Engineering**
+- 📖 I’m currently studying *Computer Engineering*
 
 - 📝 I regularly write articles on [https://medium.com/@aditya_parikh](https://medium.com/@aditya_parikh)
 
