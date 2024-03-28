@@ -4,9 +4,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aditya_parikh](https://medium.com/@aditya_parikh)
 
-- 👩‍💻 I am currently learning **Data Science and Analytics, AI**
+- 👩‍💻 I am currently learning **Data Science and Analytics, AI, ML**
 
-- 💬 Ask me about **Photography, Data Science, Python**
+- 💬 Ask me about **ML, Data Science, Python**
 
 
 <h3 align="left">Languages and Tools:</h3>
