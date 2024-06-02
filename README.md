@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Parikh</h1>
 - 📖 I’m currently studying *Computer Engineering*
 
-
-- 📝 I regularly write articles on [https://medium.com/@aditya_parikh](https://medium.com/@aditya_parikh)
-
 - 👩‍💻 I am currently learning **Data Science and Analytics, AI, ML**
 
 - 💬 Ask me about **ML, Data Science, Python**
